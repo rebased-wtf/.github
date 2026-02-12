@@ -1,7 +1,7 @@
 # rebased.wtf tech meetup
 rebased.wtf is a tech hangout &amp; community in vienna, austria.
 
-More infos coming soon – save the date: 18.03.26 @ 6:30pm 
+More infos coming soon – save the date: 18.03.26 @ 6pm 
 
 ## Links
 - Web – [rebased.wtf](https://rebased.wtf)
